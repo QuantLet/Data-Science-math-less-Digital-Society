@@ -1,0 +1,11 @@
+Name of QuantLet : '3Drandompolar'
+
+Published in : 'Data-Science-math-less-Digital-Society' 
+
+Description : 'the normal 3D random plot'
+
+Keywords : 'normal, plotly'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Wed, Jan 10 2024
