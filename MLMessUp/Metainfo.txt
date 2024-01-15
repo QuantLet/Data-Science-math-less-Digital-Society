@@ -1,0 +1,11 @@
+Name of QuantLet : 'MLMessUp'
+
+Published in : 'Data-Science-math-less-Digital-Society' 
+
+Description : 'Examples that ML can be messed up easily'
+
+Keywords : 'scale, learning rate'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Mon, Jan 15 2024
