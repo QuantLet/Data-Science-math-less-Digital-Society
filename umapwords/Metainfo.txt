@@ -1,0 +1,11 @@
+Name of QuantLet : 'umapwords'
+
+Published in : 'Data-Science-math-less-Digital-Society' 
+
+Description : 'Example of UMAP and BERT embedding'
+
+Keywords : 'UMAP, BERT'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Jan 16 2024
